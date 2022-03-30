@@ -1,0 +1,9 @@
+Package: interest
+Type: Package
+Title: A package to calcualte interest returns
+Version: 0.1
+Date: 2022-03-30
+Author: Peter Gruber
+Maintainer: <peter.gruber@usi.ch>
+Description: More about what it does (maybe more than one line)
+License: BSD
